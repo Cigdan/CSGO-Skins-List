@@ -1,4 +1,4 @@
-# Filtered-Buff-Data
+# CSGO Skins-List
 
 List of all CSGO skins with their respective attributes and buff.163.com ids.
 
